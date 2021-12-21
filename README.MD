@@ -1,4 +1,4 @@
-# Showcase Page for the *Plugins Client SDK* for Staffbase Platform
+# *Plugins Client SDK Showcase Page* for Staffbase Platform
 
 ----
 
@@ -11,5 +11,3 @@
 ## Information
 
 This page showcases the [Plugins Client SDK](https://github.com/Staffbase/plugins-client-sdk) from Staffbase.
-
-Available also as [npm package](https://www.npmjs.com/package/@staffbase/plugins-client-sdk).
